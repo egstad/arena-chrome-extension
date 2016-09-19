@@ -11,8 +11,8 @@ Well, it's the bookmarklet. But instead of it being added to the bookmarks bar, 
 
 ### Installation
 
-1. [Install this repo](https://github.com/jordanegstad/arena-chrome-extension/archive/master.zip)
-2. Go to extensions settings: **Menu » More tools » Extensions**
+1. [Install this repo](https://github.com/jordanegstad/arena-chrome-extension/archive/master.zip).
+2. Go to extensions settings: **Menu » More tools » Extensions**.
 3. Tick "_Developer mode_".
 4. Click "_Load unpacked extension..._" and select the downloaded _arena-chrome-extension_ folder.
 5. Find cool shit and save it for later.
