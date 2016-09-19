@@ -1,7 +1,5 @@
 # Are.na Chrome Extension
-A chrome extension
-
---
+A chrome extension for Are.na's bookmarklet.
 
 ### What is the bookmarklet?
 Are.na's [bookmarklet](https://www.are.na/tools/bookmarklet) allows you to add information to are.na from your browser bar while you are out and about surfing the net.
